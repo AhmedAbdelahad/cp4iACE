@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><launchConfiguration type="com.ibm.etools.mft.debug.internal.mbLaunchConfigurationDelegate">
+<stringAttribute key="BRName" value="NODE1"/>
+<stringAttribute key="ConnectionInfo" value=""/>
+<stringAttribute key="EGName" value="EG1"/>
+<stringAttribute key="com.ibm.etools.mft.debug.attr_hostname" value="IBM-PF3132JB"/>
+<stringAttribute key="com.ibm.etools.mft.debug.attr_javaportname" value="20"/>
+</launchConfiguration>
